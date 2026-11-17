@@ -17,6 +17,7 @@ class Buku extends Model
         'penerbit',
         'tahun_terbit',
         'stok',
+        'cover',
         // TODO 2: Tambahkan kolom 'cover' pada properti $fillable
     ];
 
